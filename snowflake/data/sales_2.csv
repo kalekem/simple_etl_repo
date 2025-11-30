@@ -1,0 +1,11 @@
+OrderID,Product,Category,SalesAmount,OrderDate,Region,CustomerName
+1011,Monitor Stand,Furniture,55.00,2025-01-11,West,Kyle Reese
+1012,Noise Cancelling Buds,Electronics,180.00,2025-01-11,East,Laura Croft
+1013,Air Fryer Large,Home Goods,110.00,2025-01-12,Central,Michael Scott
+1014,Ergonomic Mousepad,Electronics,15.99,2025-01-12,South,Nancy Drew
+1015,4-Port USB Hub,Electronics,35.00,2025-01-13,East,Oliver Queen
+1016,Gaming Mouse Pro,Electronics,85.00,2025-01-13,West,Pam Beesly
+1017,Smart Watch Series 5,Electronics,299.99,2025-01-14,Central,Quentin Tarantino
+1018,Small Blender,Home Goods,49.99,2025-01-14,South,Rachel Green
+1019,Desk Organizer,Furniture,25.00,2025-01-15,East,Steve Rogers
+1020,3D Printer Starter,Electronics,950.00,2025-01-15,West,Tony Stark
