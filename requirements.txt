@@ -1,0 +1,11 @@
+# data manipulation
+pandas
+
+# database connectivity
+sqlalchemy
+psycopg2-binary
+pyodbc
+
+# jupyter notebook support
+ipykernel
+notebook
