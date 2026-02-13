@@ -6,6 +6,7 @@ sqlalchemy
 psycopg2-binary
 pyodbc
 pymysql
+snowflake-sqlalchemy
 cryptography
 
 # jupyter notebook support
