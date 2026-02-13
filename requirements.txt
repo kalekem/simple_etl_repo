@@ -5,6 +5,8 @@ pandas
 sqlalchemy
 psycopg2-binary
 pyodbc
+pymysql
+cryptography
 
 # jupyter notebook support
 ipykernel
