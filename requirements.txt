@@ -7,6 +7,7 @@ psycopg2-binary
 pyodbc
 pymysql
 snowflake-sqlalchemy
+snowflake-connector-python[pandas]
 cryptography
 
 # jupyter notebook support
